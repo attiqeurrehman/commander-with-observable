@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@fluentui/font-icons-mdl2": "8.5.2",
+    "@fluentui/react": "8.100.0",
+    "@legendapp/state": "0.21.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "ig6f9m",
+  "description": null,
+  "version": "0.0.38",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
